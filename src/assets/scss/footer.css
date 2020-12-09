@@ -1,0 +1,11 @@
+.footer {
+  height: 20px;
+  padding: 4px;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.5rem;
+}
+
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,28 @@
+@import "src/assets/scss/mixin.scss";
+
+.card-wrapper {
+  margin: 20px;
+}
+
+.card {
+  width: 27rem;
+  color: black;
+
+  .card-title {
+    font-size: 2rem;
+  }
+}
+
+@include phone {
+  .card {
+    width: 100%;
+    color: black;
+
+    .card-title {
+      font-size: 2rem;
+    }
+  }
+}
+
+
+
